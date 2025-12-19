@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: aff0b0298a2a43e4ab6b4e3b686abc30
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 260797
+  packageName: Animated Dungeon Characters 2D
+  packageVersion: 1.0
+  assetPath: Assets/DungeonMonsters2D/Characters/Rat.prefab
+  uploadId: 600989

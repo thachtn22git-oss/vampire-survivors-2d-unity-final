@@ -1,0 +1,28 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# User settings
+[Uu]ser[Ss]ettings/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Visual Studio / Rider
+.vs/
+.idea/
+*.csproj
+*.sln
+*.user
+*.pidb
+*.booproj
+
+# Unity meta
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta

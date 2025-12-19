@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f0a58cd56777838429a7ce7e392a8160
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 260797
+  packageName: Animated Dungeon Characters 2D
+  packageVersion: 1.0
+  assetPath: Assets/DungeonMonsters2D/Animation/Zombie/StunedZombie.anim
+  uploadId: 600989

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e1b3d11fb45f05a4a86da1b99ad121df
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 260797
+  packageName: Animated Dungeon Characters 2D
+  packageVersion: 1.0
+  assetPath: Assets/DungeonMonsters2D/Animation/GolemWood/DeathWoodGolem.anim
+  uploadId: 600989

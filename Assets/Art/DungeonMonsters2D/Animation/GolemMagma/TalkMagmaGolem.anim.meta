@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ae4a67b3bd2cb6b438ef4f4d8741cc0e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 260797
+  packageName: Animated Dungeon Characters 2D
+  packageVersion: 1.0
+  assetPath: Assets/DungeonMonsters2D/Animation/GolemMagma/TalkMagmaGolem.anim
+  uploadId: 600989

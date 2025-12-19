@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: af8740bf2cb05ea4bae9146c52fee6ba
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 260797
+  packageName: Animated Dungeon Characters 2D
+  packageVersion: 1.0
+  assetPath: Assets/DungeonMonsters2D/Animation/Skeleton/IdleSkeleton.anim
+  uploadId: 600989

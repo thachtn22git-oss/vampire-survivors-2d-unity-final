@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 765f5d224e48c994db4c9b533449a62c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 260797
+  packageName: Animated Dungeon Characters 2D
+  packageVersion: 1.0
+  assetPath: Assets/DungeonMonsters2D/Animation/GhostKnight/TalkGhostKnight.anim
+  uploadId: 600989

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: db3b2c3fb08f487438bfd5963fafeb77
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 260797
+  packageName: Animated Dungeon Characters 2D
+  packageVersion: 1.0
+  assetPath: Assets/DungeonMonsters2D/Animation/Rat/TalkRat.anim
+  uploadId: 600989

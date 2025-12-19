@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8e936db4557a2884296125a5cc45d6bb
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 260797
+  packageName: Animated Dungeon Characters 2D
+  packageVersion: 1.0
+  assetPath: Assets/DungeonMonsters2D/Animation/GolemCrystal/DeathCrystalGolem.anim
+  uploadId: 600989

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4773d06f2f98d4b45890987d5150e5d8
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 260797
+  packageName: Animated Dungeon Characters 2D
+  packageVersion: 1.0
+  assetPath: Assets/DungeonMonsters2D/Animation/Dragon/DeathDragon.anim
+  uploadId: 600989

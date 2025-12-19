@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ca489b881fd5f4c4cbd55d807bf5166f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 260797
+  packageName: Animated Dungeon Characters 2D
+  packageVersion: 1.0
+  assetPath: Assets/DungeonMonsters2D/Animation/Dragon/IdleDragon.anim
+  uploadId: 600989

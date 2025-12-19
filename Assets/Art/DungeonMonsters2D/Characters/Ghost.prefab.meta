@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2cd40e93838052b42abf25238596bf48
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 260797
+  packageName: Animated Dungeon Characters 2D
+  packageVersion: 1.0
+  assetPath: Assets/DungeonMonsters2D/Characters/Ghost.prefab
+  uploadId: 600989

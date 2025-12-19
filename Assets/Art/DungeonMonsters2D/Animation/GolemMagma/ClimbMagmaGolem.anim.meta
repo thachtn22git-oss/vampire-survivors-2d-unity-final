@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e7eb5820ab0de6f449fd1edd17fb0042
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 260797
+  packageName: Animated Dungeon Characters 2D
+  packageVersion: 1.0
+  assetPath: Assets/DungeonMonsters2D/Animation/GolemMagma/ClimbMagmaGolem.anim
+  uploadId: 600989

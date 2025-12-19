@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9d506a7cd87e3894fbe96f40cbe14741
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 260797
+  packageName: Animated Dungeon Characters 2D
+  packageVersion: 1.0
+  assetPath: Assets/DungeonMonsters2D/Animation/Spider/DeathSpider.anim
+  uploadId: 600989

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c9f2e6b38a73200489477fec8e22c5b1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 260797
+  packageName: Animated Dungeon Characters 2D
+  packageVersion: 1.0
+  assetPath: Assets/DungeonMonsters2D/Animation/Bat/ClimbBat.anim
+  uploadId: 600989

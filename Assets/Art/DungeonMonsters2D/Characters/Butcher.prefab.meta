@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fac48c8ea85a30c4491fe16969ec8cde
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 260797
+  packageName: Animated Dungeon Characters 2D
+  packageVersion: 1.0
+  assetPath: Assets/DungeonMonsters2D/Characters/Butcher.prefab
+  uploadId: 600989

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ad7f8ff3b81dfce45a20ad6468a80d32
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 260797
+  packageName: Animated Dungeon Characters 2D
+  packageVersion: 1.0
+  assetPath: Assets/DungeonMonsters2D/Animation/ZombieWarrior/ZombieWarriorAnimation.controller
+  uploadId: 600989

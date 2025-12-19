@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 480fd3bff3f16f74cac7fe62bf4d0c95
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 260797
+  packageName: Animated Dungeon Characters 2D
+  packageVersion: 1.0
+  assetPath: Assets/DungeonMonsters2D/Characters/Succubus.prefab
+  uploadId: 600989

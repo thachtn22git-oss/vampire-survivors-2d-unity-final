@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9bb9b93f3f73e0e4d8555c05db0dc29b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 260797
+  packageName: Animated Dungeon Characters 2D
+  packageVersion: 1.0
+  assetPath: Assets/DungeonMonsters2D/Animation/Ghost/StunedGhost.anim
+  uploadId: 600989

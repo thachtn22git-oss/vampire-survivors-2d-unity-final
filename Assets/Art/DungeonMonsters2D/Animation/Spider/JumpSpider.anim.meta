@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0cea6e9603a5b1e41b1100e8a0dfa3d6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 260797
+  packageName: Animated Dungeon Characters 2D
+  packageVersion: 1.0
+  assetPath: Assets/DungeonMonsters2D/Animation/Spider/JumpSpider.anim
+  uploadId: 600989

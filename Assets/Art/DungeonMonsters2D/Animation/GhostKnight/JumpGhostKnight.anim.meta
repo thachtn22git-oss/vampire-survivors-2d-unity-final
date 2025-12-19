@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2f7d2f58ff7f8ab47a1f20cffaf563b6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 260797
+  packageName: Animated Dungeon Characters 2D
+  packageVersion: 1.0
+  assetPath: Assets/DungeonMonsters2D/Animation/GhostKnight/JumpGhostKnight.anim
+  uploadId: 600989

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a2d1a98b89307654cafdbfa9097476f5
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 260797
+  packageName: Animated Dungeon Characters 2D
+  packageVersion: 1.0
+  assetPath: Assets/DungeonMonsters2D/Animation/Dragon/SpecialAttackDragon.anim
+  uploadId: 600989

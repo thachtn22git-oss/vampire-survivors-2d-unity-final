@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b89604b4a97bd2e479c3c594605074e8
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 260797
+  packageName: Animated Dungeon Characters 2D
+  packageVersion: 1.0
+  assetPath: Assets/DungeonMonsters2D/Animation/Demon/MoveDemon.anim
+  uploadId: 600989

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fc7681e5eee138949b359b9040ad2785
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 260797
+  packageName: Animated Dungeon Characters 2D
+  packageVersion: 1.0
+  assetPath: Assets/DungeonMonsters2D/Animation/Succubus/MoveSuccubus.anim
+  uploadId: 600989

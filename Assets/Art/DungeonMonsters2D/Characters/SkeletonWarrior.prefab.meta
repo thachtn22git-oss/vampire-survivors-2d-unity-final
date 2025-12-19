@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: dbd06efdb112bc741ae210690448782c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 260797
+  packageName: Animated Dungeon Characters 2D
+  packageVersion: 1.0
+  assetPath: Assets/DungeonMonsters2D/Characters/SkeletonWarrior.prefab
+  uploadId: 600989

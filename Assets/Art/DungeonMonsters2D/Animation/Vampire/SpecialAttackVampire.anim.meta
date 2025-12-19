@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6ed8a5674cfeed848b1528f24d30c5c6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 260797
+  packageName: Animated Dungeon Characters 2D
+  packageVersion: 1.0
+  assetPath: Assets/DungeonMonsters2D/Animation/Vampire/SpecialAttackVampire.anim
+  uploadId: 600989

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bb961b074dc02004dbf7fecedd1c05b1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 260797
+  packageName: Animated Dungeon Characters 2D
+  packageVersion: 1.0
+  assetPath: Assets/DungeonMonsters2D/Animation/SkeletonMage/DeathSkeletonMage.anim
+  uploadId: 600989

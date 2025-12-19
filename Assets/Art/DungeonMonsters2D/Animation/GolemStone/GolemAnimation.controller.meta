@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ffd5b5f2c13673249b9e1ed01d29eaa4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 260797
+  packageName: Animated Dungeon Characters 2D
+  packageVersion: 1.0
+  assetPath: Assets/DungeonMonsters2D/Animation/GolemStone/GolemAnimation.controller
+  uploadId: 600989

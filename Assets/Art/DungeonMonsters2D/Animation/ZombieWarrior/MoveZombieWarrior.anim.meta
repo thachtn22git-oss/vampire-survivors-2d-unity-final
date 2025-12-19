@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 04ecb458fe3492a4d99135afc8ea6d8a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 260797
+  packageName: Animated Dungeon Characters 2D
+  packageVersion: 1.0
+  assetPath: Assets/DungeonMonsters2D/Animation/ZombieWarrior/MoveZombieWarrior.anim
+  uploadId: 600989

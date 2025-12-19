@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6edec9dbb10e561459fda3e02b81db9f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 260797
+  packageName: Animated Dungeon Characters 2D
+  packageVersion: 1.0
+  assetPath: Assets/DungeonMonsters2D/Animation/GhostKnight/AttackGhostKnight.anim
+  uploadId: 600989

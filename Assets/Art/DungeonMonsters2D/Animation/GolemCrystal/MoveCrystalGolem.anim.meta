@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 993ac565fa9cf6644830e11f7aad73fc
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 260797
+  packageName: Animated Dungeon Characters 2D
+  packageVersion: 1.0
+  assetPath: Assets/DungeonMonsters2D/Animation/GolemCrystal/MoveCrystalGolem.anim
+  uploadId: 600989

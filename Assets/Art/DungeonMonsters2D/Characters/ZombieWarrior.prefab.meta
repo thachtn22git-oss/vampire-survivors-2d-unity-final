@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e905638903e47b844a51841d88e2d420
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 260797
+  packageName: Animated Dungeon Characters 2D
+  packageVersion: 1.0
+  assetPath: Assets/DungeonMonsters2D/Characters/ZombieWarrior.prefab
+  uploadId: 600989

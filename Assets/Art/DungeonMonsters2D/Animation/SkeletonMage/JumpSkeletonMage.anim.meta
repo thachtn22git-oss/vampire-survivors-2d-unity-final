@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9f5f43e0c1dcc344d99f415f86be2e8d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 260797
+  packageName: Animated Dungeon Characters 2D
+  packageVersion: 1.0
+  assetPath: Assets/DungeonMonsters2D/Animation/SkeletonMage/JumpSkeletonMage.anim
+  uploadId: 600989

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3849d9e2c1ed9d941940dac6c54ea4bd
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 260797
+  packageName: Animated Dungeon Characters 2D
+  packageVersion: 1.0
+  assetPath: Assets/DungeonMonsters2D/Animation/SkeletonMage/TalkSkeletonMage.anim
+  uploadId: 600989

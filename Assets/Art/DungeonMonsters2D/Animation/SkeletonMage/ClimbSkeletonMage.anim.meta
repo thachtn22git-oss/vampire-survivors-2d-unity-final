@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b3923fc96901df647b1a5b6751ee912c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 260797
+  packageName: Animated Dungeon Characters 2D
+  packageVersion: 1.0
+  assetPath: Assets/DungeonMonsters2D/Animation/SkeletonMage/ClimbSkeletonMage.anim
+  uploadId: 600989

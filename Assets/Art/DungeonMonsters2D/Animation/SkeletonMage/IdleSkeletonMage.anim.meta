@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a546fe536f90089479bbe9ca758f1a99
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 260797
+  packageName: Animated Dungeon Characters 2D
+  packageVersion: 1.0
+  assetPath: Assets/DungeonMonsters2D/Animation/SkeletonMage/IdleSkeletonMage.anim
+  uploadId: 600989

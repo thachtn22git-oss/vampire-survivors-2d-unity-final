@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e146ba54e7072c04ab823ef262102f1f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 260797
+  packageName: Animated Dungeon Characters 2D
+  packageVersion: 1.0
+  assetPath: Assets/DungeonMonsters2D/Animation/Spider/SpecialAttackSpider.anim
+  uploadId: 600989

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9420d830cdfeb8546b6862c3ab44d5d7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 260797
+  packageName: Animated Dungeon Characters 2D
+  packageVersion: 1.0
+  assetPath: Assets/DungeonMonsters2D/Animation/GolemCrystal/SpecialAttackCrystalGolem.anim
+  uploadId: 600989

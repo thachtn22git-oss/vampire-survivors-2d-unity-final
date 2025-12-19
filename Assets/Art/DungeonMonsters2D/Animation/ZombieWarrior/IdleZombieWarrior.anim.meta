@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 29ea6b55dbef752408b4059d3a4e050f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 260797
+  packageName: Animated Dungeon Characters 2D
+  packageVersion: 1.0
+  assetPath: Assets/DungeonMonsters2D/Animation/ZombieWarrior/IdleZombieWarrior.anim
+  uploadId: 600989

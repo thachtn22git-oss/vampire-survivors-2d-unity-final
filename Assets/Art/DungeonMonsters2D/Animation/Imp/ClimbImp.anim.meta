@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cd01127b84a0cc74ea9487d2e75de88a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 260797
+  packageName: Animated Dungeon Characters 2D
+  packageVersion: 1.0
+  assetPath: Assets/DungeonMonsters2D/Animation/Imp/ClimbImp.anim
+  uploadId: 600989
