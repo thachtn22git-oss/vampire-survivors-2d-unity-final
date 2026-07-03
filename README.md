@@ -19,5 +19,5 @@ Players control a warrior character and survive against endless waves of enemies
 
 ## Team
 - Trần Ngọc Thạch
-- Lê Văn Khanh
-- Võ Nguyễn Tấn Tài
+<img width="721" height="345" alt="image" src="https://github.com/user-attachments/assets/edc4a12c-ef77-4111-a292-b3b1cba7d229" />
+Image 1: Main menu scene
