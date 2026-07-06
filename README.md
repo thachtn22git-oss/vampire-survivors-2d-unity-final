@@ -20,6 +20,14 @@ This project was developed to practice:
 
 ---
 
+## 🎥 Gameplay Demo
+
+Watch the gameplay here:
+
+https://youtu.be/ThxCfwIyQFo
+
+---
+
 ## ✨ Features
 
 ### 🎮 Gameplay
